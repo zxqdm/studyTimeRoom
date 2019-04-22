@@ -23,7 +23,7 @@
 
 > 英语学习记录
 
-- 每日单词
+- [每日记录](english/everydaywords/)
 - [WallStreetEnglishRecord](english/wse/)
 
 ### 课程
