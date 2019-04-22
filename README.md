@@ -24,7 +24,7 @@
 > 英语学习记录
 
 - 每日单词
-- [WallStreetEnglishRecord](csrftoken/studyTimeRoom/tree/master/docs/english/wse/)
+- [WallStreetEnglishRecord](english/wse/)
 
 ### 课程
 
