@@ -23,6 +23,9 @@
 
 > 英语学习记录
 
+- 每日单词
+- WallStreetEnglishRecord
+
 ### 课程
 
 > 学习的课程
