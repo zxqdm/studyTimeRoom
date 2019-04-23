@@ -30,9 +30,11 @@
 
 > 学习的课程
 
-- 极客时间：Mysql实战45讲
+- 极客时间
 
-    - [笔记](lessons/mysql_of_actual)
+    - Mysql实战45讲 [笔记](lessons/mysql_of_actual)
+- 掘金小册
+    - Redis 深度历险：核心原理与应用实践
 
 ### 动漫
 

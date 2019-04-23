@@ -6,9 +6,9 @@ prefers 喜欢
 
 explanation 解释
 
-pots
+pots and pans 做饭的工具
 
-owner 
+owner 拥有者
 
 punish 惩罚
 
