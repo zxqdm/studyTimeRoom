@@ -88,3 +88,6 @@ I hope everything is good with you. I really like my job at the Healthy Juice Ga
 I am much happier at work now! Have a great day.
 
 Your friend, Dmitri
+
+# lesson2
+

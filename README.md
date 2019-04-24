@@ -17,7 +17,7 @@
 
 ### 书籍
 
-> 看过的书
+> 看过的书, 技术类的或者其它均可
 
 ### 英语
 
@@ -48,6 +48,6 @@
 {
     "name": "liuzhichao",
     "job": "IT",
-    "language": "python,js"
+    "language": "python,js,go"
 }
 ```
