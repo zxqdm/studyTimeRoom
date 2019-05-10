@@ -91,3 +91,29 @@ Your friend, Dmitri
 
 # lesson2
 
+## 单词
+
+bought  买了 
+
+## 句子
+
+shen's father bought tickets to New York.
+
+Shen is going to act like a teacher in a play, a movie, or a television show.
+
+## 短句
+
+
+
+## 阅读
+
+### 片段一
+
+Shen is an actor. He wants to get a  in a movie.
+Shen’s mother and father are coming to visit him. He hasn’t seen his  in a long time.
+Shen’s father bought  to New York.
+They want to see interesting  in the city.
+Shen likes to go out at  with his friends. Sometimes they get home very late.
+Li Li wants to  Benny at the video game.  
+Shen’s  is exciting now. He has a lot of stories to tell his mother and father.
+
