@@ -43,6 +43,9 @@
 - 掘金小册
     - Redis 深度历险：核心原理与应用实践
 
+- linux(老男孩线下班)
+  - EveryWeekHaveClass [笔记](linuxstudy)
+
 ### 动漫
 
 > 动漫比电视剧更具感染力
