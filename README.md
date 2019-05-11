@@ -46,6 +46,9 @@
 - linux(老男孩线下班)
   - EveryWeekHaveClass [笔记](linuxstudy)
 
+- DRF课件及录制
+  - 课件
+
 ### 动漫
 
 > 动漫比电视剧更具感染力
