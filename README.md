@@ -40,6 +40,7 @@
 - 极客时间
 
     - Mysql实战45讲 [笔记](lessons/mysql_of_actual)
+    - 数据结构与算法之美[笔记]()
 - 掘金小册
     - Redis 深度历险：核心原理与应用实践
 
@@ -47,7 +48,7 @@
   - EveryWeekHaveClass [笔记](linuxstudy)
 
 - DRF课件及录制
-  - 课件
+  - 课件 [笔记](lessons/drf)
 
 ### 动漫
 
