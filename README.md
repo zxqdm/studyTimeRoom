@@ -32,7 +32,7 @@
 
 > 可能会让你的身体更健康？
 
-- dayday ([#3])(https://github.com/csrftoken/studyTimeRoom/issues/3)
+- dayday（[#3](https://github.com/csrftoken/studyTimeRoom/issues/3)）
 
 ### 英语
 
