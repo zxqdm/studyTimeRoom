@@ -22,11 +22,17 @@ toy  玩具
 
 valley 山谷
 
+directions 
+
 ## 短句
 
 colored markers
 
 below freezing 
+
+we need to see 
+
+files home to Japan a lot，because he likes to see his family.
 
 ## 句子
 
@@ -55,17 +61,15 @@ Why do you have to go home early？
 
 You must turn your car on for fiv minutes before you start driving.
 
+I have to look for information for my science class.
 
+You must use your card to open the door.
 
+We have to buy new computers this month bacause these old ones are slow.
 
+Leela walks to work because she lives next to her office.
 
-
-
-
-
-
-
-
+Heinrich works as an engineer，but he wants to be an artist.
 
 
 
