@@ -28,9 +28,24 @@ smell 气味
 
 still 仍然
 
+coat
+
+pockets
+
+toy  玩具
+
+valley 山谷
+
+directions
 ## 短句
 
 colored markers
+
+below freezing
+
+we need to see
+
+files home to Japan a lot，because he likes to see his family.
 
 ## 句子
 
@@ -38,9 +53,36 @@ Do you have all of your supplies?
 你的东西都带齐了吗？
 
 I use my bag to bring my books to school.
-
 I guess this temp teacher wasn't bad after all!
 我猜这个临时的老师不会非常差!
+I thint we can make it work
+
+And I think
+
+can you repeat that please？
+
+why do you want to design new shoes！
+
+what do you need when it rains？
+I need a rain jacket and an umbrella.
+
+Because shows reason for an action
+
+I must remember to bting my homework to class tomorrow.
+
+Why do you have to go home early？
+
+You must turn your car on for fiv minutes before you start driving.
+
+I have to look for information for my science class.
+
+You must use your card to open the door.
+
+We have to buy new computers this month bacause these old ones are slow.
+
+Leela walks to work because she lives next to her office.
+
+Heinrich works as an engineer，but he wants to be an artist.
 
 It's good for you to exercise.
 
