@@ -24,6 +24,10 @@ paint 油漆
 
 conversation 谈话
 
+presentation 演讲
+
+present 礼物
+
 ## 句子
 
 Does the owner requirerequirement all new workers to fill out this form?
@@ -47,9 +51,11 @@ he puts the cell phone in its case.
 
 ## 短句
 
+making a presentation for the customers 为客户做演讲
+
 how's it going  进展怎么样
 
-thinks are good with me 
+thinks are good with me
 
 类似于：be good with.  可以理解为ok的意思
 
@@ -77,7 +83,9 @@ but I don't know if there are tickets left. 但是我不知道是否还有票
 
 whose food is that?  那是谁的食物
 
-kind of movie
+kind of movie 类型的电影
+
+he's on vacation 他在度假
 
 ## 阅读
 
@@ -89,11 +97,45 @@ I am much happier at work now! Have a great day.
 
 Your friend, Dmitri
 
+## 写故事?
+
+You:
+- When do you get here?
+- What do you want to do?
+- When do you leave?
+
+Your friend:
+- What is the weather like?
+- Are you working?
+- How much money do I need?
+
+```
+You: Hi, Taka! I am so happy you are coming! What time does your plane get here?
+Taka: Me, too! Let me check the schedule….I get in at 9:00 on Saturday.
+You: Great. I will meet you at the airport. What do you want to do first?
+Taka: I want to see the city. But first, I am going to eat something.
+You: Good idea. We can have breakfast at Breakfast Station.
+Taka: That sounds good. I love that place.
+You: Okay. Then we can walk around the city.
+Taka: Good idea. What else are we doing?
+You: Well, we’ll have lunch at my apartment. Then, we are going to a show at Palace Theater at 3:00 p.m. After that, we’re going to have dinner at the Tartan.
+Taka: Tartan is great! I love their food. How about Sunday?
+You: Let’s go for a run in the park. Then we can have breakfast and go to the art museum.
+Taka: It sounds great. My plane leaves at 7:00.
+You: I know. I’m going to take you to the airport at 5:00.
+Taka: What is the weather? Do I need a warm coat?
+You: Yes, you do. The weather changes a lot here.
+Taka: Okay. And how much money do I need?
+You: About $200. We are going to do things that don’t cost too much money.
+Taka: Well, I hope you don’t have to work!
+You: No way! I’m going to spend all my time with you!
+```
+
 # lesson2
 
 ## 单词
 
-bought  买了 
+bought  买了
 
 ## 句子
 
@@ -116,4 +158,3 @@ They want to see interesting  in the city.
 Shen likes to go out at  with his friends. Sometimes they get home very late.
 Li Li wants to  Benny at the video game.  
 Shen’s  is exciting now. He has a lot of stories to tell his mother and father.
-
