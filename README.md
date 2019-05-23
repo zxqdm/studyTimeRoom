@@ -21,12 +21,12 @@
 > 看过的书, 技术类的或者其它均可
 
 - 技术类
-  - 流畅的python([#4](https://github.com/csrftoken/studyTimeRoom/issues/4))
-  - PythonCookBook
+  - * [ ] 流畅的python([#4](https://github.com/csrftoken/studyTimeRoom/issues/4))
+  - * [ ] PythonCookBook
 
 - Other
-  - 活着
-  - 许三观卖血记
+  - * [ ]  活着
+  - * [ ]  许三观卖血记
 
 ### 运动
 
@@ -46,7 +46,6 @@
 > 学习的课程
 
 - 极客时间
-
     - Mysql实战45讲 [笔记](lessons/mysql_of_actual)
     - 数据结构与算法之美[笔记](lessons/algorithm)
 - 掘金小册
