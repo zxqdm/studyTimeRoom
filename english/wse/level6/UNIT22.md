@@ -153,3 +153,55 @@ Mauricio: Sure. It’s P-A-R-C,  D-E,  M-O-N-T-J-U-I-C.
 Jack: Great! Thank you for all your help.
 Mauricio: You’re welcome. Enjoy the city!
 ```
+
+# lesson2
+
+## 单词
+
+fork 叉子
+
+spoon 勺子
+
+oven mitt 微波炉手套
+
+pieces 块
+
+stir 搅拌
+
+popular 受欢迎的
+
+temp 临时的
+
+still 仍然
+
+past 过去的
+
+semester 学期
+
+## 句子
+
+can you work late? 你能工作到很晚吗？
+
+Why did you leave your last job?
+
+## 阅读
+
+- What things do you have to or must do?  
+- What did you do in the past?  
+- What things do you need to do in the future?  
+- What do you have to do to make your life less busy?
+
+```
+Dear Charlotte,
+
+I hope you and your family are well. We are all good here, but I am very tired because of school and work.
+
+I am taking five classes this semester. I have to take so many because I didn’t do chemistry last year. I must take chemistry if I want to finish school.
+
+I also have to work. I started a job at a new restaurant last week. I really like it, but I have to close up three nights a week. I usually get home at midnight!
+
+I also go to the gym a lot. Maybe I don’t have to go to the gym four times a week? I want to be healthy, but I also have to sleep! I usually visit my parents three times a month. Maybe I don’t have to do that so often? At the moment, I don’t know what to do! What do you think?
+
+Love,
+Rajika
+```
