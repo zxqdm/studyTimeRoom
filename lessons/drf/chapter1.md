@@ -5,10 +5,19 @@
 Hello, 大家好.
 本节我们将带大家学习 `django-rest-frmework` 的使用及进阶学习, 深入了解 `drf` 的使用.
 `django-rest-frmework` 是一套基于 `django` 框架编写 `RESTful` 风格API的组件.
-为什么要使用 `django-rest-framework`
+- 为什么要使用 `django-rest-framework`
+   - 成本高
+
 
 我们将以知识点的形式来叙述它, 怎么去观看官方文档.
 好, 接下来将为大家讲解该框架的具体使用..
+
+学完这个课之后:
+
+大家
+讲知识点
+变成项目
+
 
 ## 第二节
 
