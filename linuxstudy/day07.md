@@ -20,7 +20,6 @@
 ### 分支对比
 
 ![image-20190601100609129](../images/image-20190601100609129.png)
-<<<<<<< HEAD
 
 ## 规划和安装
 
@@ -95,4 +94,58 @@ $ mysqladmin -u root password "new_password";
 $ mysql -u root -p
 Enter password:*******
 ```
+
+## 基本
+
+- 建立用户
+- 授权
+- 连接管理
+  - socket(套接字文件)
+    - 只允许本地连接
+  - TCPIP(网络IP+PORT)
+    - 通过ip+端口号
+
+- 分类
+
+  - DDL 数据定义语言
+    - select 
+      - 函数应用，select database()
+      - 参数查询，select @@port， @@datadir  
+    - from
+      - 表、视图、子查询
+  - DCL 数据控制语言
+    - grant
+    - deny
+    - revoke
+  - DML 数据操作语言
+    - insert
+    - update
+    - delete
+  - DQL 数据查询语言
+    - where
+      - 等值
+      - 比较判断符
+      - 逻辑连接符
+      - 模糊查询
+    - group by
+    - having
+      - 使用临时表解决having面对结果集比较大的情况
+    - order by limit 
+    - 其它
+      - between
+      - and
+      - in
+      - exist
+      - union all
+
+- 一条sql是在数据库中如何进行查询的？
+
+  - from 打开表
+  - where  会走索引
+  - 分组
+  - select
+  - having 结果集进行再次过滤
+  - 排序 进行 limit 
+
+  
 
