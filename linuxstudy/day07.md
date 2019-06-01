@@ -20,6 +20,7 @@
 ### 分支对比
 
 ![image-20190601100609129](../images/image-20190601100609129.png)
+<<<<<<< HEAD
 
 ## 规划和安装
 
@@ -94,6 +95,4 @@ $ mysqladmin -u root password "new_password";
 $ mysql -u root -p
 Enter password:*******
 ```
-
-**注意：**在输入密码时，密码是不会显示了，你正确输入即可。
 
