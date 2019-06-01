@@ -11,7 +11,7 @@
   - 获取更高冗余(安全性)
 - RAID0，RAID1，RAID5
 
-![image-20190601100649767](/Users/liuzhichao/DjangoProjects/studyTimeRoom/images/image-20190601100649767.png)
+![image-20190601100649767](../images/image-20190601100649767.png)
 
 - 命令
 
@@ -56,7 +56,7 @@
   - 排查 lsof |grep deleted
   - 解决：重启服务
 
-![image-20190601100703241](/Users/liuzhichao/DjangoProjects/studyTimeRoom/images/image-20190601100703241.png)
+![image-20190601100703241](../images/image-20190601100703241.png)
 
 ## linux优化
 
